@@ -1,0 +1,11 @@
+=== TEST 1.1 ===
+0 Ana: [1 works_at 2.50] [3 participates_in 1.75]
+1 Tech: [2 located_in 0.80]
+2 Iasi:
+3 Meetup: [2 located_in 1.20]
+=== TEST 1.2 ===
+EXISTS Ana
+EDGE Ana Tech
+NEIGHBORS Ana
+PATH Ana Iasi
+DIJKSTRA Ana Iasi

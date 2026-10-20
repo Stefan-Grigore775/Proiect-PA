@@ -1,0 +1,4 @@
+SURSA;RELATIE;DESTINATIE;COST
+Ana;works_at;Zeta;2.10
+Ana;friend_of;Ion;0.50
+Zeta;located_in;Bucuresti;1.00

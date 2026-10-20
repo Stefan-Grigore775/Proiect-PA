@@ -1,0 +1,6 @@
+EXISTS Ana
+EDGE Ana Zeta
+NEIGHBORS Ana
+EXISTS Maria
+NEIGHBORS Bucuresti
+EDGE Ion Zeta

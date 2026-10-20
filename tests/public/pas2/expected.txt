@@ -1,0 +1,13 @@
+=== TEST 2.1 ===
+1 Ana PERSON
+3 Bucuresti LOCATION
+2 Hub EVENT
+4 Ion PERSON
+0 Zeta COMPANY
+=== TEST 2.2 ===
+EXISTS Ana: DA
+EDGE Ana Zeta: DA
+NEIGHBORS Ana: Zeta Ion
+EXISTS Maria: NU
+NEIGHBORS Bucuresti: NULL
+EDGE Ion Zeta: NU

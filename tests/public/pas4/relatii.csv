@@ -1,0 +1,6 @@
+SURSA;RELATIE;DESTINATIE;COST
+Ana;works_at;Firma;1.20
+Ana;friend_of;Mara;0.70
+Mara;participates_in;Forum;1.50
+Forum;located_in;Iasi;0.80
+Firma;located_in;Iasi;0.60

@@ -1,0 +1,5 @@
+SURSA;RELATIE;DESTINATIE;COST
+Ana;works_at;Tech;2.50
+Ana;participates_in;Meetup;1.75
+Tech;located_in;Iasi;0.80
+Meetup;located_in;Iasi;1.20

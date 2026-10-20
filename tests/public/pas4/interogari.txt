@@ -1,0 +1,6 @@
+EXISTS Ana
+EXISTS Bob
+EDGE Ana Firma
+NEIGHBORS Ana
+PATH Ana Iasi
+DIJKSTRA Ana Iasi

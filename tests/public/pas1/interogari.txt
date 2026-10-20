@@ -1,0 +1,5 @@
+EXISTS Ana
+EDGE Ana Tech
+NEIGHBORS Ana
+PATH Ana Iasi
+DIJKSTRA Ana Iasi

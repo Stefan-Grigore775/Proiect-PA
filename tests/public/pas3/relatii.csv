@@ -1,0 +1,6 @@
+SURSA;RELATIE;DESTINATIE;COST
+Ana;works_at;Firma;1.00
+Ana;friend_of;Loc;4.00
+Firma;located_in;Oras;1.50
+Loc;participates_in;Expo;1.00
+Expo;located_in;Oras;1.00

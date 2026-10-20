@@ -1,0 +1,6 @@
+=== TEST 3.1 ===
+PATH Ana Oras: Ana -> Firma -> Oras
+PATH Oras Ana: NU
+=== TEST 3.2 ===
+DIJKSTRA Ana Oras: COST = 2.50; DRUM = Ana -> Firma -> Oras
+DIJKSTRA Oras Ana: NU

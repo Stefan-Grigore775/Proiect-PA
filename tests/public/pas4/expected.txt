@@ -1,0 +1,6 @@
+EXISTS Ana: DA
+EXISTS Bob: NU
+EDGE Ana Firma: DA
+NEIGHBORS Ana: Firma Mara
+PATH Ana Iasi: Ana -> Firma -> Iasi
+DIJKSTRA Ana Iasi: COST = 1.80; DRUM = Ana -> Firma -> Iasi
